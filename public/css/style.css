@@ -1,0 +1,25 @@
+html{
+  background-image: url("../image/Clouds.jpg");
+  background-repeat: no-repeat;
+  height: 100%;
+}
+
+body{
+  text-align: center;
+  background-color: #ecf4f3;
+}
+
+.headingStyle{
+  padding-top: 10%;
+  color: blue;
+}
+
+.inputRow{
+  position: relative;
+  top: 50px;
+}
+
+.btnRow{
+  position: relative;
+  top: 100px;
+}
